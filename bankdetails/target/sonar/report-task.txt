@@ -1,0 +1,6 @@
+projectKey=com.bankdetails:bankdetails
+serverUrl=http://localhost:9004
+serverVersion=9.3.0.51899
+dashboardUrl=http://localhost:9004/dashboard?id=com.bankdetails%3Abankdetails
+ceTaskId=AYqzARpkvTNpT5Ze9Bjp
+ceTaskUrl=http://localhost:9004/api/ce/task?id=AYqzARpkvTNpT5Ze9Bjp
